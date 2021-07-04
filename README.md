@@ -6,9 +6,9 @@
 
 - Go to config.json and edit your Ping and Webhook.
 
-- Webhook will be the Webhook URL of a Discord Server to notify if the bot detects a valid nitro.
+- Webhook will be the Webhook URL of a Discord Server to notify if the bot detects a valid nitro. The Message will be Embedded.
 
-- Ping won't be embedded, so you can add text like @everyone, @here or <@YourID>. It'll ping whatever you type in place of it when a valid nitro is found. The Message will be Embedded.
+- Ping won't be embedded, so you can add text like @everyone, @here or <@YourID>. It'll ping whatever you type in place of it when a valid nitro is found.
 
 # Warning
 
