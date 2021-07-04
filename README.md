@@ -1,6 +1,6 @@
 # Nitro Gen and Checker
 
--  Bot that will automatically generated unchecked codes and will check every 10 seconds.
+-  Bot that will automatically generates unchecked nitro codes and will check every 10 seconds.
 
 # Setup
 
