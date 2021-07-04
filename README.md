@@ -12,4 +12,4 @@
 
 # Warning
 
-- Don't edit index.js or gen.js or else the code will be tempered.
+- Don't edit index.js or gen.js or else the code will be tampered.
