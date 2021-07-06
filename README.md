@@ -1,6 +1,6 @@
 # Nitro Gen and Checker
 
--  Bot that will automatically generates unchecked nitro codes and will check every 10 seconds.
+-  A Programme that will automatically generates unchecked nitro codes and will check every 10 seconds. Notifies through Webhook when a Valid Nitro has been Found!
 
 # Setup
 
